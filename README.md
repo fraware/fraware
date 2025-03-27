@@ -1,3 +1,3 @@
 ## GitHub Metrics
 
-![Metrics](https://raw.githubusercontent.com/fraware/fraware/main/metrics.svg)
+![Metrics](https://raw.githubusercontent.com/fraware/fraware/master/metrics.svg)
