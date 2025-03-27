@@ -1,3 +1,3 @@
-## Hi there 👋
+## GitHub Metrics
 
-![Metrics](./metrics.svg)
+![Metrics](https://raw.githubusercontent.com/fraware/fraware/main/metrics.svg)
