@@ -19,7 +19,7 @@ jobs:
           config_timezone: San Francisco
           config_display: large
           commits_authoring: mpetel@stanford.edu
-          plugin_achievements: yes
+          #plugin_achievements: yes
           plugin_calendar: yes
           plugin_calendar_limit: 3
           #plugin_followup: yes
