@@ -21,7 +21,7 @@ jobs:
           commits_authoring: mpetel@stanford.edu
           #plugin_achievements: yes
           plugin_calendar: yes
-          plugin_calendar_limit: 3
+          plugin_calendar_limit: 4
           #plugin_followup: yes
           #plugin_habits: yes
           #plugin_habits_facts: no
