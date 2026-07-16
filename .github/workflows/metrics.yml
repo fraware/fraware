@@ -37,6 +37,6 @@ jobs:
           #plugin_people: yes
           #plugin_people_types: contributors, sponsoring
           plugin_repositories: yes
-          plugin_repositories_featured: fraware/DeepLiDARPlanet, fraware/SimulationAI, fraware/chaoslabs, fraware/cloudpilot, fraware/chronoapi, fraware/accountabilitylayer
+          #plugin_repositories_featured: fraware/DeepLiDARPlanet, fraware/SimulationAI, fraware/chaoslabs, fraware/cloudpilot, fraware/chronoapi, fraware/accountabilitylayer
           #plugin_topics: yes
           #plugin_topics_mode: icons
