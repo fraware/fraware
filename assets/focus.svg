@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="focusTitle focusDesc">
+  <title id="focusTitle">Current focus &#8212; DeepMind, Stanford, UNESCO, SentinelOps</title>
+  <desc id="focusDesc">Four current roles: DeepMind secure infrastructure fellowship, Stanford research scientist, UNESCO neuroscience and AI governance, SentinelOps co-founder.</desc>
+  <defs>
+    <style><![CDATA[
+      .bg { fill: #F2F4F7; }
+      .panel { fill: #E8EDF3; }
+      .frame { fill: none; stroke: #B7C3D0; stroke-width: 1; }
+      .tick { stroke: #2F5D50; stroke-width: 2; stroke-linecap: round; }
+      .label {
+        font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+        font-size: 12px; font-weight: 600; letter-spacing: 0.14em; fill: #2F5D50;
+      }
+      .role {
+        font-family: ui-serif, Georgia, "Times New Roman", serif;
+        font-size: 18px; font-weight: 600; fill: #1A2332;
+      }
+      .detail {
+        font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+        font-size: 13px; fill: #5A6577;
+      }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0F1419; }
+        .panel { fill: #161D26; }
+        .frame { stroke: #2E3A48; }
+        .tick { stroke: #6B9E8E; }
+        .label { fill: #6B9E8E; }
+        .role { fill: #E6EAF0; }
+        .detail { fill: #9AA5B5; }
+      }
+    ]]></style>
+  </defs>
+
+  <rect class="bg" width="960" height="220"/>
+  <text class="label" x="56" y="36">NOW</text>
+
+  <g transform="translate(56,52)">
+    <rect class="panel" width="200" height="140" rx="2"/>
+    <rect class="frame" width="200" height="140" rx="2"/>
+    <line class="tick" x1="18" y1="28" x2="42" y2="28">
+      <animate attributeName="x2" values="42;52;42" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <text class="role" x="18" y="58">DeepMind</text>
+    <text class="detail" x="18" y="84">Research Fellow</text>
+    <text class="detail" x="18" y="106">Secure infrastructure</text>
+  </g>
+
+  <g transform="translate(272,52)">
+    <rect class="panel" width="200" height="140" rx="2"/>
+    <rect class="frame" width="200" height="140" rx="2"/>
+    <line class="tick" x1="18" y1="28" x2="42" y2="28"/>
+    <text class="role" x="18" y="58">Stanford</text>
+    <text class="detail" x="18" y="84">Research Scientist</text>
+    <text class="detail" x="18" y="106">AI for science</text>
+  </g>
+
+  <g transform="translate(488,52)">
+    <rect class="panel" width="200" height="140" rx="2"/>
+    <rect class="frame" width="200" height="140" rx="2"/>
+    <line class="tick" x1="18" y1="28" x2="42" y2="28"/>
+    <text class="role" x="18" y="58">UNESCO</text>
+    <text class="detail" x="18" y="84">Lead Contributor</text>
+    <text class="detail" x="18" y="106">Neuroscience &amp; AI</text>
+  </g>
+
+  <g transform="translate(704,52)">
+    <rect class="panel" width="200" height="140" rx="2"/>
+    <rect class="frame" width="200" height="140" rx="2"/>
+    <line class="tick" x1="18" y1="28" x2="42" y2="28"/>
+    <text class="role" x="18" y="58">SentinelOps</text>
+    <text class="detail" x="18" y="84">Co-Founder</text>
+    <text class="detail" x="18" y="106">AI security protocols</text>
+  </g>
+</svg>

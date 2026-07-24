@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="96" viewBox="0 0 960 96" role="img" aria-labelledby="pTitle pDesc">
+  <title id="pTitle">Lean Verifier &#8212; formal properties of machine learning models in Lean 4</title>
+  <desc id="pDesc">Project card for Lean Verifier, specifying and proving ML properties such as robustness, fairness, and interpretability in Lean 4.</desc>
+  <defs>
+    <style><![CDATA[
+      .bg { fill: #F2F4F7; }
+      .panel { fill: #E8EDF3; stroke: #B7C3D0; stroke-width: 1; }
+      .accent { stroke: #2F5D50; stroke-width: 3; }
+      .kicker {
+        font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+        font-size: 11px; font-weight: 600; letter-spacing: 0.16em; fill: #2F5D50;
+      }
+      .title {
+        font-family: ui-serif, Georgia, "Times New Roman", serif;
+        font-size: 22px; font-weight: 600; fill: #1A2332;
+      }
+      .blurb {
+        font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+        font-size: 14px; fill: #5A6577;
+      }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0F1419; }
+        .panel { fill: #161D26; stroke: #2E3A48; }
+        .accent { stroke: #6B9E8E; }
+        .kicker { fill: #6B9E8E; }
+        .title { fill: #E6EAF0; }
+        .blurb { fill: #9AA5B5; }
+      }
+    ]]></style>
+  </defs>
+  <rect class="bg" width="960" height="96"/>
+  <rect class="panel" x="56" y="8" width="848" height="80" rx="2"/>
+  <line class="accent" x1="56" y1="8" x2="56" y2="88"/>
+  <text class="kicker" x="78" y="34">FORMAL METHODS</text>
+  <text class="title" x="78" y="60">Lean Verifier</text>
+  <text class="blurb" x="300" y="56">Prove ML properties &#8212; robustness, fairness, interpretability &#8212; in Lean 4.</text>
+</svg>

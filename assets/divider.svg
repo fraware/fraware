@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="28" viewBox="0 0 960 28" role="img" aria-labelledby="divTitle">
+  <title id="divTitle">Section divider</title>
+  <defs>
+    <style><![CDATA[
+      .bg { fill: #F2F4F7; }
+      .line { stroke: #B7C3D0; stroke-width: 1; }
+      .dot { fill: #2F5D50; }
+      @media (prefers-color-scheme: dark) {
+        .bg { fill: #0F1419; }
+        .line { stroke: #2E3A48; }
+        .dot { fill: #6B9E8E; }
+      }
+    ]]></style>
+  </defs>
+  <rect class="bg" width="960" height="28"/>
+  <line class="line" x1="56" y1="14" x2="430" y2="14"/>
+  <circle class="dot" cx="480" cy="14" r="2.5">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <line class="line" x1="530" y1="14" x2="904" y2="14"/>
+</svg>

@@ -1,0 +1,85 @@
+# GitHub profile content — source of truth for README + SVG copy.
+# Keep this file in sync with https://mateopetel.xyz/
+
+identity:
+  name: Matéo H. Petel
+  tagline: ML researcher · AI for Science
+  summary: >
+    Work at the intersection of AI, scientific discovery, and safety-critical
+    systems — accelerating the scientific process while preserving reliability
+    and rigor.
+  github: fraware
+  site: https://mateopetel.xyz/
+  linkedin: https://www.linkedin.com/in/mateo-petel/
+  email: mpetel@stanford.edu
+
+hero:
+  accent: AI for Science
+  supporting: >
+    Verified systems for science — secure infrastructure, formal methods,
+    and Earth observation.
+
+focus:
+  title: Now
+  items:
+    - role: Research Fellow
+      org: DeepMind
+      detail: Scaling secure infrastructure
+      url: https://www.deepmind.com/
+    - role: Research Scientist
+      org: Stanford
+      detail: AI for science and clinical systems
+      url: https://www.stanford.edu/
+    - role: Lead Contributor
+      org: UNESCO
+      detail: Neuroscience and AI governance
+      url: https://www.unesco.org/
+    - role: Co-Founder
+      org: SentinelOps
+      detail: Open-source AI security protocols
+      url: https://github.com/SentinelOps-CI
+
+projects:
+  - id: sentinelops
+    title: SentinelOps
+    blurb: Open-source AI security protocols for trustworthy advanced systems.
+    url: https://github.com/SentinelOps-CI
+    accent: security
+  - id: accountability
+    title: Accountability Layer
+    blurb: Transparency and traceability for AI agent decision-making.
+    url: https://github.com/fraware/accountabilitylayer
+    accent: agents
+  - id: intersim
+    title: Inter-Sim RL
+    blurb: Intersection navigation with reinforcement learning under constraints.
+    url: https://github.com/fraware/inter-sim-rl
+    accent: simulation
+  - id: deeplidar
+    title: DeepLiDARPlanet
+    blurb: Biomass estimation from airborne and spaceborne imagery (JPL lineage).
+    url: https://github.com/fraware/DeepLiDARPlanet
+    accent: earth
+  - id: leanverifier
+    title: Lean Verifier
+    blurb: Specify and prove ML properties — robustness, fairness, interpretability — in Lean 4.
+    url: https://github.com/fraware/leanverifier
+    accent: formal
+
+research:
+  - Evaluated early-warning systems for LLM-aided biological threat creation at OpenAI.
+  - Built extreme-weather forecasting models analyzing mortality impacts at Oxford (Lancet).
+  - Optimized clinical operations at Lucile Packard Children's Hospital (Stanford), cutting runtime 4x.
+  - Developing verified ML pipelines in Lean 4 with CNRS, focused on specification and proof automation.
+  - Lead contributor to UNESCO's report on neuroscience and AI governance.
+
+footer:
+  note: Prefer the full CV and writing on the personal site.
+  site_label: mateopetel.xyz
+
+pins_recommended:
+  - SentinelOps-CI/provability-fabric
+  - fraware/accountabilitylayer
+  - fraware/inter-sim-rl
+  - fraware/DeepLiDARPlanet
+  - fraware/leanverifier
