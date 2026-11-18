@@ -12,7 +12,7 @@ My research interests include AI-enabled scientific discovery, the reliability o
 
 ### Selected public work
 
-- **[Forward Science](https://fraware.github.io/forward-science/)** — Six essays on AI for science, the [forward-deployed scientist](https://fraware.github.io/forward-science/forward-deployed-scientists/), and the [scientific loop](https://fraware.github.io/forward-science/scientific-loop/). [Original Critical Systems series](https://mateopetel.substack.com/t/forward-science) · [Source](https://github.com/fraware/forward-science).
+- **[Forward Science](https://fraware.github.io/forward-science/)** — Essays on scientific institutions, AI for science, and forward-deployed scientists. [Source](https://github.com/fraware/forward-science).
 - **[LabTrust-Gym](https://github.com/fraware/LabTrust-Gym)** — Multi-agent simulation and evaluation for hospital laboratory automation. Research and simulation only.
 - **[MathEvidence](https://github.com/fraware/MathEvidence)** — Experimental infrastructure for Lean-checked mathematical evidence from external tools.
 - **[LeanVerifier](https://github.com/fraware/leanverifier)** — Research preview of formal checks for affine binary classifiers; release authorization is pending.
